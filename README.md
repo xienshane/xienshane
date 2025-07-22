@@ -77,9 +77,8 @@
 
 ### 🐍 Contribution Graph Snake
 <p align="center">
-  <img src="https://github.com/xienshane/xienshane/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/xienshane/xienshane/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only" />
 </p>
-
 ---
 
 > *“The best way to predict the future is to create it.” – Alan Kay*
