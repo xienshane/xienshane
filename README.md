@@ -2,7 +2,7 @@
 <h3 align="center">💻 3rd Year Computer Science Student | Passionate Developer | Tech Explorer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=500&pause=1000&color=00FFAD&center=true&vCenter=true&width=435&lines=Code.+Create.+Repeat.;Learning+Never+Stops.;Let's+Build+Something+Awesome!" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=500&pause=1000&color=9F79EE&center=true&vCenter=true&width=435&lines=Code.+Create.+Repeat.;Learning+Never+Stops.;Let's+Build+Something+Awesome!" />
 </p>
 
 ---
@@ -19,33 +19,32 @@
 ### 🛠️ Languages & Tools
 <p align="left">
   <!-- Programming Languages -->
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  
+  <img src="https://img.shields.io/badge/Python-8467D7?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-9F79EE?style=for-the-badge&logo=javascript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-8A2BE2?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-6A5ACD?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-6A5ACD?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-7B68EE?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kotlin-8A2BE2?style=for-the-badge&logo=kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-9370DB?style=for-the-badge&logo=php&logoColor=white"/>
+
   <!-- Web & Frameworks -->
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  
+  <img src="https://img.shields.io/badge/React-BA55D3?style=for-the-badge&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next.js-483D8B?style=for-the-badge&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-6A5ACD?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+
   <!-- Databases / Backend -->
-  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
-  
+  <img src="https://img.shields.io/badge/MySQL-7B68EE?style=for-the-badge&logo=mysql&logoColor=white"/>
+
   <!-- Tools -->
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-800080?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-9F79EE?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 
   <!-- Design / Productivity -->
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-DDA0DD?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Canva-BA55D3?style=for-the-badge&logo=canva&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Notion-6A5ACD?style=for-the-badge&logo=notion&logoColor=white"/>
 </p>
-
 
 ---
 
@@ -62,21 +61,24 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xienshane&show_icons=true&theme=radical" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xienshane&layout=compact&theme=radical" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=xienshane&show_icons=true&theme=tokyonight&hide_border=false" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xienshane&layout=compact&theme=tokyonight" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=xienshane&theme=radical&border_radius=5"/>
+  <img src="https://streak-stats.demolab.com?user=xienshane&theme=tokyonight&hide_border=false" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=xienshane&theme=radical&column=4"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=xienshane&theme=onestar&column=4&margin-w=10&margin-h=10"/>
 </p>
 
-![Snake animation](https://github.com/xienshane/xienshane/blob/output/github-contribution-grid-snake.svg)
+---
 
-
+### 🐍 Contribution Graph Snake
+<p align="center">
+  <img src="https://github.com/xienshane/xienshane/blob/output/github-contribution-grid-snake.svg" />
+</p>
 
 ---
 
