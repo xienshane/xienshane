@@ -11,7 +11,7 @@
 - 🎓 I'm currently a 3rd-year CS student diving deep into **Web Development**, **AI**, and **Software Engineering**
 - 💡 I love solving real-world problems with code and contributing to meaningful projects
 - ⚡ Fun Fact: I write clean code *and* drink questionable amounts of iced coffee ☕
-- 🌱 Currently learning: `React`, `Next.js`, `Node.js`, `Prisma`, and some `Rust` on the side
+- 🌱 Currently learning: `React`, `Next.js`, and some, `Node.js`on the side
 - 🤝 Open to collaborating on open-source, hackathons, or cool side projects!
 
 ---
