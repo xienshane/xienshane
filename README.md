@@ -11,7 +11,7 @@
 - 🎓 I'm currently a 3rd-year CS student diving deep into **Web Development**, **AI**, and **Software Engineering**
 - 💡 I love solving real-world problems with code and contributing to meaningful projects
 - ⚡ Fun Fact: I write clean code *and* drink questionable amounts of iced coffee ☕
-- 🌱 Currently learning: `React`, `Next.js`, and some, `Node.js`on the side
+- 🌱 Currently learning: `Python`
 - 🤝 Open to collaborating on open-source, hackathons, or cool side projects!
 
 ---
@@ -19,9 +19,9 @@
 ### 🛠️ Languages & Tools
 <p align="left">
   <!-- Programming Languages -->
-  <img src="https://img.shields.io/badge/Python-8467D7?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-9F79EE?style=for-the-badge&logo=javascript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-8A2BE2?style=for-the-badge&logo=typescript&logoColor=white"/>
+<!--   <img src="https://img.shields.io/badge/Python-8467D7?style=for-the-badge&logo=python&logoColor=white"/> -->
+<!--   <img src="https://img.shields.io/badge/JavaScript-9F79EE?style=for-the-badge&logo=javascript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-8A2BE2?style=for-the-badge&logo=typescript&logoColor=white"/> -->
   <img src="https://img.shields.io/badge/C-6A5ACD?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-6A5ACD?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-7B68EE?style=for-the-badge&logo=openjdk&logoColor=white"/>
@@ -29,7 +29,7 @@
   <img src="https://img.shields.io/badge/PHP-9370DB?style=for-the-badge&logo=php&logoColor=white"/>
 
   <!-- Web & Frameworks -->
-  <img src="https://img.shields.io/badge/React-BA55D3?style=for-the-badge&logo=react&logoColor=white"/>
+  <!-- <img src="https://img.shields.io/badge/React-BA55D3?style=for-the-badge&logo=react&logoColor=white"/>
   <img src="https://img.shields.io/badge/Next.js-483D8B?style=for-the-badge&logo=next.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-6A5ACD?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 
