@@ -8,7 +8,7 @@
 ---
 
 ### 🧠 About Me
-- 🎓 I'm currently a 3rd-year CS student diving deep into **Web Development**, **AI**, and **Software Engineering**
+- 🎓 I'm currently a 3rd-year CS student diving deep into **Game Development**, **AI**, and **UI Design**
 - 💡 I love solving real-world problems with code and contributing to meaningful projects
 - ⚡ Fun Fact: I write clean code *and* drink questionable amounts of iced coffee ☕
 - 🌱 Currently learning: `Python`
