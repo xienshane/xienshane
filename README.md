@@ -23,6 +23,8 @@ I'm a CS student with a deep focus on **Game Development**, **AI**, and **Softwa
 
 **Languages**
 
+**Languages**
+ 
 <p align="left">
   <img src="https://img.shields.io/badge/C-6A5ACD?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-6A5ACD?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
@@ -31,18 +33,16 @@ I'm a CS student with a deep focus on **Game Development**, **AI**, and **Softwa
   <img src="https://img.shields.io/badge/PHP-9370DB?style=for-the-badge&logo=php&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-8467D7?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
-
 **Web & Frameworks**
-
+ 
 <p align="left">
   <img src="https://img.shields.io/badge/React-BA55D3?style=for-the-badge&logo=react&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-8A2BE2?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-6A5ACD?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-7B68EE?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
-
 **Tools & Design**
-
+ 
 <p align="left">
   <img src="https://img.shields.io/badge/Git-800080?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS%20Code-9F79EE?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
@@ -50,6 +50,11 @@ I'm a CS student with a deep focus on **Game Development**, **AI**, and **Softwa
   <img src="https://img.shields.io/badge/Canva-BA55D3?style=for-the-badge&logo=canva&logoColor=white"/>
   <img src="https://img.shields.io/badge/Notion-6A5ACD?style=for-the-badge&logo=notion&logoColor=white"/>
   <img src="https://img.shields.io/badge/itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vercel-7B68EE?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Supabase-8A2BE2?style=for-the-badge&logo=supabase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Render-9370DB?style=for-the-badge&logo=render&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Godot-6A5ACD?style=for-the-badge&logo=godotengine&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GDScript-7B68EE?style=for-the-badge&logo=godotengine&logoColor=white"/>
 </p>
 
 ---
