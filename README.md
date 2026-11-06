@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm Shane 👾</h1>
-<h3 align="center">3rd Year CS Student · Game Developer · Software Developer</h3>
+<h3 align="center">4th Year CS Student · Game Developer · Software Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=500&pause=1000&color=9F79EE&center=true&vCenter=true&width=435&lines=Code.+Create.+Repeat.;Games+are+my+love+language.;Let's+build+something+awesome!" />
@@ -7,19 +7,19 @@
 
 ---
 
-### 🧠 About Me
+### About Me
 
 I'm a CS student with a deep focus on **Game Development**, **AI**, and **Software Development**.
 
-- 🎮 Currently building games and growing as a developer
-- 🌱 Leveling up in: `Python` · `Game Design` · `AI Integration`
-- 🕹️ Published on [itch.io](https://xienshane.itch.io) — play my games in-browser!
-- 🤝 Open to: game jams, hackathons, and open-source collabs
-- ⚡ Fun fact: I love to suffer ☕
+- Currently building games and growing as a developer
+- Leveling up in: `Game Development` · `Web Development` · `AI Integration`
+- Published on [itch.io](https://xienshane.itch.io) — play my games in-browser!
+- Open to: game jams, hackathons, and open-source collabs
+- Fun fact: I love to suffer ☕
 
 ---
 
-### 🛠️ Languages & Tools
+### Languages & Tools
 
 **Languages**
 
@@ -59,40 +59,29 @@ I'm a CS student with a deep focus on **Game Development**, **AI**, and **Softwa
 
 ---
 
-### 🎮 Projects I'm Proud Of
-
-| Project | Description | Links |
-|---------|-------------|-------|
-| 🧙 **TypeWiz** | A Typer Shark-inspired typing game with a wizardry twist — defeat waves of flying mobs by typing their words before they breach your tower. Built with **FXGL & Java**, featuring 3 difficulty modes, a live leaderboard, and OOP design patterns. | [GitHub](https://github.com/xienshane/TypeWiz-Game) |
-| 🤖 **SuSTEM** | Web-based multiplayer STEM trivia game with social deduction. Players are secretly split into **Scholars vs. Tricksters**, with AI-generated quizzes and real-time rooms. Built at a national hackathon. | [GitHub](https://github.com/xienshane/SuSTEM) · [Live](https://sustem.academy) |
-| 🎨 **Chroma** | A color-based combat game where you collect masks to harness red, yellow, green, and blue power — each monster is only vulnerable to its matching hue. | [GitHub](https://github.com/xienshane/Chroma) · [Play ▶](https://xienshane.itch.io/chroma) |
-
-> 🕹️ More games on my [itch.io page](https://xienshane.itch.io) — all playable in browser!
-
----
-
 ### 🏆 Hackathons & Game Jams
 
 **Hackathons**
 
 | Event | Achievement | Project |
 |-------|-------------|---------|
-| 🧠 Can You HackIT? The IBPAP Challenge | 🥇 Best UI/UX Design | [SuSTEM](https://github.com/xienshane/SuSTEM) |
-| 🎓 UPCSG Innovation Cup 2026 | 🏅 Top 15 Finalist | [PresyoAni](https://github.com/moisturicer/presyoani) |
+| Can You HackIT? The IBPAP Challenge 2025 | 🥇 Best UI/UX Design | [SuSTEM](https://github.com/xienshane/SuSTEM) |
+| UPCSG Innovation Cup 2026 | 🏅 Top 15 Finalist | [PresyoAni](https://github.com/moisturicer/presyoani) |
+| Asean AI Hackathon 2026 | 🥇 Champion | [Luwas](https://github.com/xienshane/luwas-asean-hackathon) |
 
 **Game Jams**
 
 | Event | Achievement | Game |
 |-------|-------------|------|
-| 🌊 Sugbuanon Saga 2025 | 🥉 3rd Place | [BALIKAW](https://sahoooo.itch.io/balikaw) |
-| 🌍 Global Game Jam 2026 — Cebu Leg | 🥇 Champion | [Chroma](https://xienshane.itch.io/chroma) |
-| 📺 Conduit Retro Jam 2026 | 🏅 4th Place | [Plundering Time](https://sahoooo.itch.io/plundering-time) |
-| 🎮 UPCSG Game Jam 2026 | Participant | [Unbound Hero](https://sahoooo.itch.io/unbound-hero) |
-| 🎮 thatgamejam #01 | Participant | [Eclipse](https://sahoooo.itch.io/eclipse) |
+| Sugbuanon Saga 2025 | 🥉 3rd Place | [BALIKAW](https://sahoooo.itch.io/balikaw) |
+| Global Game Jam 2026 — Cebu Leg | 🥇 Champion | [Chroma](https://xienshane.itch.io/chroma) |
+| Conduit Retro Jam 2026 | 🏅 4th Place | [Plundering Time](https://sahoooo.itch.io/plundering-time) |
+| UPCSG Game Jam 2026 | Participant | [Unbound Hero](https://sahoooo.itch.io/unbound-hero) |
+| Checkpoint Game Jam - GGJ 2026 | Participant | [Luminous](https://kerps.itch.io/luminous) |
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=xienshane&show_icons=true&theme=tokyonight&hide_border=false" height="165"/>
@@ -105,14 +94,6 @@ I'm a CS student with a deep focus on **Game Development**, **AI**, and **Softwa
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=xienshane&theme=onestar&column=4&margin-w=10&margin-h=10"/>
-</p>
-
----
-
-### 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://github.com/xienshane/xienshane/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only" />
 </p>
 
 ---
